@@ -1,0 +1,8 @@
+@url=http://localhost:8011
+
+PUT {{url}}/hello/iain
+Content-Type: application/json
+
+{
+  "expiryDate": null
+}
